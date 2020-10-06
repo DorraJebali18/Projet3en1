@@ -6,7 +6,7 @@ font-family: 'Merriweather', serif;
 
 .header{
     
-    background-color: cadetblue;
+    background-image: url("");
     background-size: cover;
     height: 500px;
 }
@@ -228,12 +228,37 @@ line-height: 70px;
 .services .services_box .serv h1{
 font-family: 'Mont serrat', sans-serif;
 font-weight: 700;
-color: #222222;
+color: black;
 font-size: 18px;
 }
 
 .services .services_box .serv p{
 font-family: 'Roboto Slab', serif;
-color: #777777;
+color: darkslateblue;
 font-size: 14px;
 }
+
+
+
+
+
+.About{
+    
+    padding: 120px 0;
+   
+}
+
+.About .section_title{
+    
+    text-align: center;
+}
+
+
+
+
+.About .services_box .serv p{
+font-family: 'Roboto Slab', serif;
+color: darkslateblue;
+font-size: 14px;
+}
+
